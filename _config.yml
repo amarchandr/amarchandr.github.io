@@ -18,10 +18,9 @@ social:
     - https://www.linkedin.com/in/chandrasingh143/
     - https://plus.google.com/+chandrasingh143
     - https://github.com/amarchandr
-    - https://keybase.io/benbalter
 
 disqus:
-  shortname: janczizikow # to enable comments replace with your_disqus_shortname
+  shortname: amar # to enable comments replace with your_disqus_shortname
 
 # Build settings
 markdown: kramdown
